@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
-# Python x Tableau
+# Python and Tableau
 
 | Project Link | Area | Project Description | Libraries | Dashboard Link |
 |---|---|---|---|---|
