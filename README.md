@@ -15,8 +15,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # SQL
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| [💡Business Intelligence Analysis](https://github.com/AlmostSurely1476/Data-Driven-Business-Intelligence-Analysis-/tree/main) | Data analysis, data cleaning, data transformation | This analysis of Olist's Brazilian e-commerce data (2016-2018) reveals key insights about revenue patterns, customer behavior, seller performance, and operational efficiency. |
 
 # Tableau
 
